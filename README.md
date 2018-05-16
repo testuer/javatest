@@ -9,11 +9,12 @@ function s
 
 oh i screwd it up
 }
-function differentfix
-)
 
 
-oh man
+function hotfix()
+{
+
+
+hot fix and something else 
 }
-
 
