@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello test  and world
 hddi fix typo
 hello world
@@ -18,3 +19,5 @@ function hotfix()
 hot fix and something else 
 }
 
+function()
+do something
