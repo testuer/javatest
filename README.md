@@ -15,4 +15,4 @@ function hotfix()
 {
  yesno good
 }
-I added some function
+dddddI added some function
