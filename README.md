@@ -13,6 +13,6 @@ oh i screwd it up
 
 function hotfix()
 {
-	kandu
+	kandu is good
 }
 dddddI added some function
