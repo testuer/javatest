@@ -19,5 +19,6 @@ function hotfix()
 	oh my god
 	test
 	abcX
+	abc!
 }
 dddddI added some function
