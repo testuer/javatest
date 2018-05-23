@@ -13,6 +13,6 @@ oh i screwd it up
 
 function hotfix()
 {
- no good
+ yesno good
 }
 
