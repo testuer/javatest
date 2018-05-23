@@ -18,5 +18,6 @@ function hotfix()
 	oh lord
 	oh my god
 	test
+	abc
 }
 dddddI added some function
