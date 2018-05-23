@@ -16,5 +16,7 @@ function hotfix()
 	kandu test test
 	kandu is good
 	oh lord
+	oh my god
+	test
 }
 dddddI added some function
