@@ -13,6 +13,6 @@ oh i screwd it up
 
 function hotfix()
 {
- yesno good here again i added something here to show you
+ yesno good here again i added something here to show you again
 }
 dddddI added some function
