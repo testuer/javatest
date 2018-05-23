@@ -20,5 +20,6 @@ function hotfix()
 	test
 	abcX
 	abc!
+	new line!
 }
 dddddI added some function
