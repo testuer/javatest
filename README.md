@@ -11,8 +11,6 @@ oh i screwd it up
 }
 function hotfix()
 {
-
-
-hi hot fix and something else
+ introduce a conflict
 }
 
