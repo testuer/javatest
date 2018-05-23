@@ -15,9 +15,5 @@ oh i screwd it up
 function hotfix()
 {
 
-
-hot fix and something else 
-}
-
-function()
-do something
+i dont want it
+}}
