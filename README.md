@@ -13,6 +13,6 @@ oh i screwd it up
 
 function hotfix()
 {
- yesno good here again i added something here to show you again
+	kandu
 }
 dddddI added some function
