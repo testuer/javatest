@@ -26,3 +26,4 @@ function hotfix()
 	new line
 }
 dddddI added some function
+add something
