@@ -25,3 +25,4 @@ function hotfix()
         (add by master)	new line! and abc  (added by master)  all together
 }
 dddddI added some function
+add something
