@@ -20,6 +20,7 @@ function hotfix()
 	test
 	abcX
 	abc!
-(add by master)	new line! and abc  (added by master)
+	new line! and abc  (added by master) branch change
+	some new line by other ppl
 }
 dddddI added some function
