@@ -20,6 +20,6 @@ function hotfix()
 	test
 	abcX
 	abc!
-(add by master)	new line! and abc  (added by master)
+(add by master)	new line! and abc  (added by master)  all together
 }
 dddddI added some function
