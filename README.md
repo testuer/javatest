@@ -22,5 +22,6 @@ function hotfix()
 	abc!
 	new line! and abc  (added by master) branch change
 	some new line by other ppl
+        (add by master)	new line! and abc  (added by master)  all together
 }
 dddddI added some function
