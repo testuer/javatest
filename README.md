@@ -21,5 +21,6 @@ function hotfix()
 	abcX
 	abc!
 	new line! and abc  (added by master)
+	some new line by other ppl
 }
 dddddI added some function
