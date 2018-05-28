@@ -7,4 +7,4 @@ line4
 rebase test
 line5
 line6
-featureA (more work added to feature A)
+featureA (more work added to feature A) small change added
