@@ -8,3 +8,4 @@ rebase test
 line5
 line6
 line7
+featureA (more work added to feature A) small change added
