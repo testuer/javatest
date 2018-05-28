@@ -8,3 +8,4 @@ rebase test
 line5 (featureBee)
 line6
 featureB added something
+line7
