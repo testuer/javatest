@@ -7,4 +7,4 @@ line4
 rebase test
 line5
 line6
-featureB
+featureB added something
