@@ -5,6 +5,6 @@ line3 (exp)
 line4
 (some other dev's contribution)
 rebase test
-line5
+line5 (featureBee)
 line6
 featureB
