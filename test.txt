@@ -5,7 +5,8 @@ line3 (exp)
 line4
 (some other dev's contribution)
 rebase test
-line5
+line5 (featureBee)
 line6
+featureB added something
 line7
 featureA (more work added to feature A) small change added
