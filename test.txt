@@ -7,7 +7,7 @@ line4
 rebase test
 line5 (featureBee)
 line6
-featureB added something
+featureB added something | feature B added addtional fix
 line7
 featureA (more work added to feature A) small change added
 work from master branch
