@@ -11,3 +11,4 @@ featureB added something
 line7
 featureA (more work added to feature A) small change added
 work from master branch
+hi i am a new user and i added this. please take a look
