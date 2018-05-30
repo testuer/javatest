@@ -16,4 +16,5 @@ hi i am a new user and i added this. (maybe i will add this)
 line9 (newlly added line)
 hi i am a new user and i added this. please take a look (Author made some change here) (maybe i will add this).  
 
-New feature from org author 
+New feature from org author on master branch
+Another new feature from org author on master branch
