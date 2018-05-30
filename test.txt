@@ -3,7 +3,7 @@ line0
 line1
 line2 (exp)  new user modified here
 line3 (exp)
-line4
+line4  (Feature b new commit)
 (some other dev's contribution)
 rebase test
 line5 (featureBee)
