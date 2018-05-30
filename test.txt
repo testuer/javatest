@@ -1,6 +1,6 @@
 line-1
 line0
-line1
+line1 (feature B new commit )
 line2 (exp)  new user modified here
 line3 (exp)
 line4  (Feature b new commit)
