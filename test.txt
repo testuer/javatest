@@ -24,3 +24,4 @@ FeatureB (work2)
 Featureb (work3) again
 
 Master 1
+Master 2
