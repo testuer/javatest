@@ -1,8 +1,9 @@
-line0 (testuer's contribution)
-line1
+line-1 m 
+line0  m (testuer's contribution)
+line1 (feature B new commit )
 line2 (exp)  new user modified here
 line3 (exp)
-line4
+line4  (Feature b new commit)
 (some other dev's contribution)
 rebase test
 line5 (featureBee)
@@ -14,3 +15,16 @@ work from master branch
 hi i am a new user and i added this. (maybe i will add this) 
 line9 (newlly added line)
 hi i am a new user and i added this. please take a look (Author made some change here) (maybe i will add this).  
+
+New feature from org author on master branch
+Another new feature from org author on master branch
+
+FeatureB (work)
+FeatureB (work2)
+Featureb (work3) again
+
+Master 1
+Master 2
+
+fb
+fb2
