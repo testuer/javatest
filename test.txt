@@ -23,7 +23,7 @@ FeatureB (work)
 FeatureB (work2)
 Featureb (work3) again
 
-Master 1
+Master 1 m4
 Master 2
 
 fb
