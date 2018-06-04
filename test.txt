@@ -43,6 +43,10 @@ master 1
 master 2
 master 3
 
+<<<<<<< HEAD
 m1 test
+=======
+m1 test lunch time
+>>>>>>> parent of 7b867af... removed test.txt
 m2 test
 m3 test
