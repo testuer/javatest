@@ -1,0 +1,48 @@
+line-1 m (master fix)
+line0  m (testuer's contribution) test uesr fix again. forgot some line
+line1 (feature B new commit )
+line2 (exp)  new user modified here
+line3 (exp)
+line4  (Feature b new commit)
+(some other dev's contribution)
+rebase test
+line5 (featureBee)
+line6
+featureB added something | feature B added addtional fix
+line7
+featureA (more work added to feature A) small change added
+work from master branch
+hi i am a new user and i added this. (maybe i will add this) 
+line9 (newlly added line)
+hi i am a new user and i added this. please take a look (Author made some change here) (maybe i will add this).  
+
+New feature from org author on master branch
+Another new feature from org author on master branch
+
+FeatureB (work)
+FeatureB (work2)
+Featureb (work3) again
+
+Master 1 m4
+Master 2
+
+fb
+fb2
+add11 m1
+add22 m2
+add3
+master1
+master2
+master3
+master5'
+rebase1 modify 1
+rebase2 modify 2
+rebase3
+
+master 1
+master 2
+master 3
+
+m1 test lunch time
+m2 test
+m3 test
